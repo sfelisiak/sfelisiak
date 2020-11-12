@@ -1,6 +1,6 @@
 ### Hello world ..
 
-
+![imagem-capa-git](web.png)
 <!--
 **sfelisiak/sfelisiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
