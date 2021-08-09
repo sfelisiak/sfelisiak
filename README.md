@@ -5,6 +5,17 @@
 <img width="300px" align="left" src="https://github.com/sfelisiak/sfelisiak/blob/main/profile-1-300x300.jpg" />
 
 
+  
+<a href="URL DO python"><img border="0" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="URL DO html"><img border="0" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="URL DO css3"><img border="0" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="URL react"><img border="0" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="URL DO JAVA SCRIPT"><img border="0" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="URL DO PHP"><img border="0" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+  
+
+
+
 
 - 🔭 Eu sou Desenvolvedora de software.
 - 🌱 Eu estou aprendendo Kotlin.
@@ -16,33 +27,17 @@
 - ⚡ Eu atualmente moro na Polònia. 
 <br>
 <p>
-<a href="https://www.linkedin.com/in/silvanafelisiak"><img src="https://github.com/seu_usuário/sfelisiak/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/sivlanafelisiak)  
+<div>
 
-<a href="URL DO FACEBOOK"><img border="0" src="URL da IMAGEM" /></a>
+  
+<a href="URL DO Telegram"><img border="0" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="URL DO whatsap"><img border="0" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="URL DO FACEBOOK"><img border="0" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="URL DO instagram"><img border="0" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="URL do YOUTUBE"><img border="0" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  </div>
 
-<a href="URL do TWITTER"><img border="0" src="URL da IMAGEM" /></a>
-
-<a href="URL do PINTEREST"><img border="0" src="URL da IMAGEM" /></a>
-
-<a href="URL do GOOGLE+"><img border="0" src="URL da IMAGEM" /></a>
-
-<a href="URL do YOUTUBE"><img border="0" src="URL da IMAGEM"/></a>
-<!DOCTYPE html>
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<body>
-
-<i class="fa fa-home"></i>
-<i class="fa fa-search"></i>
-<i class="fa fa-cloud"></i>
-<i class="fa fa-trash"></i>
-
-</body>
-</html
-
-               
+              
 <!--
 **sfelisiak/sfelisiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
