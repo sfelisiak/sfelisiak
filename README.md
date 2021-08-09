@@ -27,14 +27,22 @@
 <a href="URL do GOOGLE+"><img border="0" src="URL da IMAGEM" /></a>
 
 <a href="URL do YOUTUBE"><img border="0" src="URL da IMAGEM"/></a>
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<body>
 
-                <ul>
-                 <h6 class="white-text">contato@xxxx<h6>
-                 <a><img href="#!" src="materialize/img/icons/facebook.png"></a>
-                 <a><img href="#!" src="materialize/img/icons/twitter.png"></a>
-                 <a><img href="#!" src="materialize/img/icons/youtube.png"></a>
-                 <a><img href="#!" src="materialize/img/icons/instagram.png"></a>
-                </ul>
+<i class="fa fa-home"></i>
+<i class="fa fa-search"></i>
+<i class="fa fa-cloud"></i>
+<i class="fa fa-trash"></i>
+
+</body>
+</html
+
+               
 <!--
 **sfelisiak/sfelisiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
