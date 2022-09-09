@@ -20,8 +20,8 @@
 - 🔭 Eu sou Desenvolvedora de software.
 - 🌱 Eu estou aprendendo Kotlin.
 - 👯 Eu ajudo mulheres a iniciar na carreira de tecnologia 
-- 🤔 Sou mentora de carreira de Tecnologia para Mulheres, e compartilho minha experiência como Desenvolvedora de Software e sobre a minha transição de carreira.
-- 💬 Tem alguma pergunta sobre a Mentoria deCriptoTech, pode me procurar nas minhas redes sociais ou pelo email hello@silvanafelisiak.com.
+- 🤔 Compartilho minha experiência como Desenvolvedora de Software e sobre a minha transição de carreira.
+- 💬 Tem alguma pergunta pode me procurar nas minhas redes sociais ou pelo email hello@silvanafelisiak.com.
 - 📫 Sou graduada em Tecnologia da Informação pela Fatec Barueri- SP -Brasil.
 - 😄 Sou brasileira da cidade de Carapicuiba, São Paulo.
 - ⚡ Eu atualmente moro na Polònia. 
