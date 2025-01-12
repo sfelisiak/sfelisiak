@@ -13,7 +13,7 @@
 <a href="#"><img border="0" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 <a href="#"><img border="0" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
   
-<span class="multilang" lang="en">My Polish Course A1 - Learn greetings</span><span class="multilang" lang="fr">Mon cours de polonais A1 - Les salutations</span><span class="multilang" lang="de">Mein Polnischkurs A1 - Lernen zu grüßen</span><span class="multilang" lang="es">Mi curso de polaco A1 - Aprende a saludar</span><span class="multilang" lang="it">Il mio corso di polacco A1 - Impara a salutare</span>
+
 
 
 
