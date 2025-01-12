@@ -21,7 +21,7 @@
 - 🌱 Eu estou aprendendo Kotlin, Java e React.
 - 👯 Eu ajudo mulheres a iniciar na carreira de tecnologia 
 - 🤔 Compartilho minha experiência como Desenvolvedora de Software e sobre a minha transição de carreira.
-- 💬 Tem alguma pergunta pode me procurar nas minhas redes sociais ou pelo email silvanafelisiak@gmail.com.
+- 💬 Tem alguma pergunta pode me procurar nas minhas redes sociais ou pelo email conato@silvanafelisiak.com
 - 📫 Sou graduada em Tecnologia da Informação pela Fatec Barueri- SP -Brasil.
 - 😄 Sou brasileira da cidade de Carapicuiba, São Paulo.
 - ⚡ Eu atualmente moro na Polônia. 
